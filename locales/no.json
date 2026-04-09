@@ -3,11 +3,11 @@
     "connecting": "Kobler til..."
   },
   "error": {
-    "401": "Ondilo API-legitimasjon er feil",
-    "403": "Ondilo API har nektet tilgang til denne enheten",
-    "404": "Enheten ikke funnet i Ondilo-kontoen",
-    "50x": "Ondilo API er utilgjengelig",
-    "network": "Ondilo API er utilgjengelig",
-    "unknown": "En ukjent feil har oppstått"
+    "401": "Ondilo API-legitimasjon er feil.",
+    "403": "Ondilo API har nektet tilgang til denne enheten.",
+    "404": "Enheten ikke funnet i Ondilo-kontoen.",
+    "50x": "Ondilo API er utilgjengelig.",
+    "network": "Ondilo API er utilgjengelig.",
+    "unknown": "En ukjent feil har oppstått."
   }
 }

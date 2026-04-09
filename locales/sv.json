@@ -3,11 +3,11 @@
     "connecting": "Ansluter..."
   },
   "error": {
-    "401": "Ondilo API-uppgifter är felaktiga",
-    "403": "Ondilo API har nekat åtkomst till den här enheten",
-    "404": "Enheten hittades inte i Ondilo-kontot",
-    "50x": "Ondilo API är inte tillgängligt",
-    "network": "Ondilo API går inte att nå",
-    "unknown": "Ett okänt fel har uppstått"
+    "401": "Ondilo API-uppgifter är felaktiga.",
+    "403": "Ondilo API har nekat åtkomst till den här enheten.",
+    "404": "Enheten hittades inte i Ondilo-kontot.",
+    "50x": "Ondilo API är inte tillgängligt.",
+    "network": "Ondilo API går inte att nå.",
+    "unknown": "Ett okänt fel har uppstått."
   }
 }
